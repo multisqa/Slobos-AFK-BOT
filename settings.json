@@ -1,20 +1,20 @@
 {
-  "name": "AFK Bot",
+  "name": "multisquoi",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "multisquoi",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "multisqasmp.aternos.me:60337",
+    "port": 60337,
+    "version": "1.20.1"
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": 232,
+    "y": 64,
+    "z": -264
   },
   "utils": {
     "auto-auth": {
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "je joue souvent et longtemps",
+        "abonnez vous à multisqa!",
+        "j'aime joué a mc !"
       ]
     },
     "chat-log": true,
